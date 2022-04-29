@@ -1,5 +1,5 @@
 //navbar
-let lastScrollTop = 0;
+/*let lastScrollTop = 0;
 navbar = document.getElementById('navbar');
 
 window.addEventListener('scroll', function(){
@@ -12,7 +12,7 @@ window.addEventListener('scroll', function(){
         navbar.style.top="0";
     }
     lastScrollTop = scrollTop; 
-}); 
+}); */
 
 //TYPED
 
